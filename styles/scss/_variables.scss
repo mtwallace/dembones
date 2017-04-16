@@ -1,0 +1,70 @@
+// Color Defaults
+$primaryColor: #0096ff;
+$secondaryColor: #00d2ff;
+$tertiaryColor: #ff7e00;
+$successColor: #10f105;
+$warningColor: #fcff00;
+$errorColor: #e20000;
+$borderColor: #ccc;
+// Font Defaults
+$fontColor: #777;
+$fontFamily: 'Helvetica', arial, sans-serif;
+$fontLineHeight: 125%;
+$fontSize: 16px;
+$fontWeight: normal;
+// Header Defaults
+$h1Size: 32px;
+$h1Color: #111;
+$h1Margin: 40px;
+$h1FontWeight: bold;
+
+$h2Size: 28px;
+$h2Color: #222;
+$h2Margin: 36px;
+$h2FontWeight: bold;
+
+$h3Size: 26px;
+$h3Color: #333;
+$h3Margin: 34px;
+$h3FontWeight: bold;
+
+$h4Size: 20px;
+$h4Color: #444;
+$h4Margin: 28px;
+$h4FontWeight: normal;
+
+$h5Size: 18px;
+$h5Color: #555;
+$h5Margin: 26px;
+$h5FontWeight: normal;
+
+$h6Size: 16px;
+$h6Color: #666;
+$h6Margin: 24px;
+$h6FontWeight: normal;
+// Input Defaults
+$inputBorderColor: $borderColor;
+$inputBorderRadius: 3px;
+$inputBorderWidth: 1px;
+$inputFontSize: $fontSize;
+$inputFontColor: $fontColor;
+$inputHeight: 32px;
+$inputMargin: 15px;
+// Button Defaults
+$buttonBackgroundColor: $primaryColor;
+$buttonBorderColor: $primaryColor;
+$buttonBorderRadius: $inputBorderRadius;
+$buttonBorderWidth: $inputBorderWidth;
+$buttonFontColor: white;
+$buttonFontSize: $fontSize;
+$buttonHeight: $inputHeight;
+$buttonMargin: 0 0 15px;
+$buttonPadding: 0 30px;
+$buttonShadow: none;
+// Column/Row Padding
+$columnPadding: 15px;
+// Media Queries
+$small: "only screen and (max-width : 768px)";
+$medium: "only screen and (max-width : 992px)";
+$large: "only screen and (max-width : 1200px)";
+$xlarge: "only screen and (max-width : 1400px)";

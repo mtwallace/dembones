@@ -1,0 +1,63 @@
+h1 {
+    color: $h1Color;
+    font-size: $h1Size;
+    font-weight: $h1FontWeight;
+    line-height: $fontLineHeight;
+    margin: $h1Margin;
+}
+h2 {
+    color: $h2Color;
+    font-size: $h2Size;
+    font-weight: $h2FontWeight;
+    line-height: $fontLineHeight;
+    margin: $h2Margin;
+}
+h3 {
+    color: $h3Color;
+    font-size: $h3Size;
+    font-weight: $h3FontWeight;
+    line-height: $fontLineHeight;
+    margin: $h3Margin;
+}
+h4 {
+    color: $h4Color;
+    font-size: $h4Size;
+    font-weight: $h4FontWeight;
+    line-height: $fontLineHeight;
+    margin: $h4Margin;
+}
+h5 {
+    color: $h5Color;
+    font-size: $h5Size;
+    font-weight: $h5FontWeight;
+    line-height: $fontLineHeight;
+    margin: $h5Margin;
+}
+h6 {
+    color: $h6Color;
+    font-size: $h6Size;
+    font-weight: $h6FontWeight;
+    line-height: $fontLineHeight;
+    margin: $h6Margin;
+}
+p {
+    color: $fontColor;
+    font-family: $fontFamily;
+    font-size: $fontSize;
+    font-weight: $fontWeight;
+    line-height: $fontLineHeight;
+}
+li {
+    color: $fontColor;
+    font-family: $fontFamily;
+    font-size: $fontSize;
+    font-weight: $fontWeight;
+    line-height: $fontLineHeight;
+}
+blockquote {
+    color: $fontColor;
+    margin: 30px 0;
+    padding: 0 0 0 50px;
+    font-style: italic;
+    font-weight: bold;
+}
